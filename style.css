@@ -1,0 +1,45 @@
+
+.container {
+    background-color:rgb(126, 193, 255);
+    border: 50px solid #ffff00;
+    border-radius: 10px;
+    margin: 30px 40px;
+    padding: 20px 50px;
+}
+
+h1{
+    color:#ae46f8;
+}
+
+#hello{
+    color: palegreen;
+}
+
+p{
+    color:indianred;
+}
+
+#kamol{
+    color: royalblue;
+}
+
+.name{
+    color: #b43feb;
+}
+
+img {
+    margin-left: 25%;
+    margin-top: 30px;
+}
+
+.form {
+    width: 500px;
+    height: 300px;
+    background-color: beige;
+    padding: 30px;
+    margin-left: 650px;
+}
+
+.form input {
+    margin-top: 20px;
+}
